@@ -37,7 +37,7 @@ Output:
 ## Last Digit of the Sum of Fibonacci Numbers
 **Task:** Given an integer 𝑛, find the last digit of the sum 𝐹<sub>0</sub> + 𝐹<sub>1</sub> + · · · + 𝐹<sub>𝑛</sub>.<br>
 **Input Format:** The input consists of a single integer 𝑛.<br>
-**Constraints:** 0 ≤ 𝑛 ≤ 1014.<br>
+**Constraints:** 0 ≤ 𝑛 ≤ 10<sup>14</sup>.<br>
 **Output Format:** Output the last digit of 𝐹<sub>0</sub> + 𝐹<sub>1</sub> + · · · + 𝐹<sub>𝑛</sub>.<br>
 ```
 Input:
